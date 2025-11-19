@@ -29,7 +29,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="python logo" />
 <img width="12" />
 
-<img src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" width="48" height="48" alt="power bi logo" />
+<img src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" width="47" height="47" alt="power bi logo" />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
@@ -44,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
 <img width="12" />
 
-<img src="https://logo.svgcdn.com/simple-icons/microsoftexcel-dark.svg" width="48" height="48" alt="power bi logo" />
+<img src="https://logo.svgcdn.com/simple-icons/microsoftexcel-dark.svg" width="47" height="47" alt="power bi logo" />
 <img width="12" />
 </div>
 
@@ -56,7 +56,7 @@
 <div style="font-size: 1.2em;">
   <span>Where to find me: </span>
   <a href="mailto:mkboamah7@gmail.com" target="_blank" style="text-decoration: none; color: #D14836;">Gmail</a> |
-  <a href="https://x.com/Analyst909" target="_blank" style="text-decoration: none; color: #0f1419;">X (Twitter)</a> |
+  <a href="https://x.com/Analyst909" target="_blank" style="text-decoration: none; color: #0f1419;">X </a> |
   <a href="https://www.linkedin.com/in/michael-kodua-boamah-87556b241/" target="_blank" style="text-decoration: none; color: #0a77b6;">LinkedIn</a>
 </div>
 
