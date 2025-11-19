@@ -53,11 +53,7 @@
 
 ##### 
 
-<h2>Where to find me</h2>
-<p><a target="_blank" href="mailto:mkboamah7@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a target="_blank" href="https://x.com/https://x.com/Analyst909" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/michael-kodua-boamah-87556b241/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="undefinedhttps://mkboamah.medium.com/" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
+<h2>Where to find me</h2>: <p><a target="_blank" href="mailto:mkboamah7@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a> | <a target="_blank" href="https://x.com/https://x.com/Analyst909" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a> | <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/michael-kodua-boamah-87556b241/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 ---
 
