@@ -1,8 +1,6 @@
-<h1>Hello and welcome to my GitHub! 👋 </h1>
+<h1>Hello 👋, welcome to my GitHub! </h1>
 
-<p>I'm Michael Boamah from Accra, Ghana. I am a motivated and ambitious data analyst skilled in research, policy and performance analytics and monitoring & evaluation | Circular economy enthusiast</p>
-
-<p>I'm Manalytics and monitoring & evaluation | Circular economy enthusiast</p>
+<p>I am Michael Boamah from Accra, Ghana. I am a motivated and ambitious data analyst skilled in research, policy and performance analytics, and monitoring & evaluation. I enjoy the challenge of solving problems, finding solutions, and discovering opportunities that promote program efficiency and sustainable development. I am proficient in Microsoft Excel, Microsoft Power BI, SQL, and Python and a proven great teamwork and leadership skills| Circular economy enthusiast</p>
 
 ###
 
@@ -15,8 +13,8 @@
 <p>Development Data Scientist / Research Analyst</p>
 
 ###
-<p align="left"> Fun fact: NFL is my favorite sport</p>
-<p align="left"> 'The Four Agreements' and 'Think and Grow Rich' are my favorite books</p>
+<p align="left">🎲 Fun fact: NFL is my favorite sport</p>
+<p align="left">📚 'The Four Agreements' and 'Think and Grow Rich' are my favorite books</p>
 
 ###
 
@@ -59,8 +57,7 @@
 <p><a target="_blank" href="mailto:mkboamah7@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a target="_blank" href="https://x.com/https://x.com/Analyst909" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/michael-kodua-boamah-87556b241/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="undefinedhttps://mkboamah.medium.com/" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/31658249/m-k" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
+<a target="_blank" href="undefinedhttps://mkboamah.medium.com/" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 
 ---
 
