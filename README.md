@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-<h2>🎯 My Current Interests and Career Learning Path</h2>
+🎯 My Current Interests and Career Learning Path
 -- Data Analyst / Business Intelligence Analyst / Power BI Developer
 -- Sustainability Analyst / Circular Economy Consultant
 -- Project Manager / Monitoring and Evaluation Specialist
@@ -16,7 +16,7 @@
 
 ###
 <p align="left"> Fun fact: NFL is my favorite sport</p>
-<p align="left">📚 'The Four Agreements' and 'Think and Grow Rich' are my favorite books</p>
+<p align="left"> 'The Four Agreements' and 'Think and Grow Rich' are my favorite books</p>
 
 ###
 
@@ -37,9 +37,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zapier/zapier-original.svg" height="40" alt="zapier logo" />
-<img width="12" />
-
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="zapier logo" />
 <img width="12" />
 
@@ -55,15 +52,6 @@
 
 ##### 
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="mailto:mkboamah7@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a target="_blank" href="https://x.com/https://x.com/Analyst909" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
