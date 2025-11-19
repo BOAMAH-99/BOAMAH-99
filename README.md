@@ -29,7 +29,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="python logo" />
 <img width="12" />
 
-<img src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" width="50" height="50" alt="power bi logo" />
+<img src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" width="48" height="48" alt="power bi logo" />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
@@ -44,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
 <img width="12" />
 
-<img src="https://commons.wikimedia.org/wiki/File:Microsoft_Excel_2013-2019_logo.svg" height="40" alt="ms excel logo" />
+<img src="https://logo.svgcdn.com/simple-icons/microsoftexcel-dark.svg" width="48" height="48" alt="power bi logo" />
 <img width="12" />
 </div>
 
