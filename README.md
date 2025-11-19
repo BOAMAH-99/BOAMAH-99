@@ -1,6 +1,6 @@
 <h1>Hello 👋, welcome to my GitHub! </h1>
 
-<p>I am Michael Boamah from Accra, Ghana. I am a motivated and ambitious data analyst skilled in research, policy and performance analytics, and monitoring & evaluation. I enjoy the challenge of solving problems, finding solutions, and discovering opportunities that promote program efficiency and sustainable development. I am proficient in Microsoft Excel, Microsoft Power BI, SQL, and Python and a proven great teamwork and leadership skills| Circular economy enthusiast</p>
+<p>I am Michael Boamah from Accra, Ghana. I am a motivated and ambitious data analyst skilled in research, policy and performance analytics, and monitoring & evaluation. I enjoy the challenge of solving problems, finding solutions, and discovering opportunities that provide program efficiency and sustainable development. I am proficient in Microsoft Excel, Microsoft Power BI, SQL, and Python, with a proven track record in teamwork and project leadership | AI and Circular economy enthusiast</p>
 
 ###
 
