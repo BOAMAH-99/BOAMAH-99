@@ -9,10 +9,10 @@
 <h2 align="left">About me</h2>
 
 <h2>🎯 My Current Interests and Career Learning Path</h2>
-- Data Analyst / Business Intelligence Analyst / Power BI Developer
-- Sustainability Analyst / Circular Economy Consultant
-- Project Manager / Monitoring and Evaluation Specialist
-- Development Data Scientist / Research Analyst
+-- Data Analyst / Business Intelligence Analyst / Power BI Developer
+-- Sustainability Analyst / Circular Economy Consultant
+-- Project Manager / Monitoring and Evaluation Specialist
+-- Development Data Scientist / Research Analyst
 
 ###
 <p align="left"> Fun fact: NFL is my favorite sport</p>
@@ -28,6 +28,9 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 <img width="12" />
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="python logo" />
+<img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="power bi logo" />
 <img width="12" />
 
@@ -37,7 +40,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zapier/zapier-original.svg" height="40" alt="zapier logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn logo" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="zapier logo" />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
@@ -50,33 +53,7 @@
 <img width="12" />
 </div>
 
-##### Hi there 👋
-
-<!--
-**BOAMAH-99/BOAMAH-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on sustaible development projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- Fun fact: NFL is my favourite sports and 'The Four Agreement' is my favourite book
--->
-
-<h1>Hello and welcome to my GitHub! 👋 </h1>
-
-<p>I'm Michael Boamah from Accra, Ghana. I am a motivated and ambitious data analyst skilled in research, policy and performance analytics and monitoring & evaluation | Circular economy enthusiast</p>
-
-<h2>🎯 My Current Interests and Career Learning Path</h2>
-- Data Analyst / Business Intelligence Analyst / Power BI Developer
-- Sustainability Analyst / Circular Economy Consultant
-- Project Manager / Monitoring and Evaluation Specialist
-- Development Data Scientist / Research Analyst
-
+##### 
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -96,5 +73,7 @@ Here are some ideas to get you started:
 
 ---
 
-👯 I’m looking to collaborate on sustainable development projects.
+###
+
+I am looking to collaborate on sustainable development and data projects.
 
