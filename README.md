@@ -29,7 +29,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="python logo" />
 <img width="12" />
 
-<img src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" width="100" height="100" alt="power bi logo" />
+<img src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" width="50" height="50" alt="power bi logo" />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
