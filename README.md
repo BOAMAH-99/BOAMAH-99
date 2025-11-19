@@ -2,17 +2,17 @@
 
 <p>I'm Michael Boamah from Accra, Ghana. I am a motivated and ambitious data analyst skilled in research, policy and performance analytics and monitoring & evaluation | Circular economy enthusiast</p>
 
-<p>I'm Michael Boamah from Accra, Ghana. I am a motivated and ambitious data analyst skilled in research, policy and performance analytics and monitoring & evaluation | Circular economy enthusiast</p>
+<p>I'm Manalytics and monitoring & evaluation | Circular economy enthusiast</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
-🎯 My Current Interests and Career Learning Path
--- Data Analyst / Business Intelligence Analyst / Power BI Developer
--- Sustainability Analyst / Circular Economy Consultant
--- Project Manager / Monitoring and Evaluation Specialist
--- Development Data Scientist / Research Analyst
+<p>🎯 My Current Interests and Career Learning Path</p>
+<p>Data Analyst / Business Intelligence Analyst / Power BI Developer</p>
+<p>Sustainability Analyst / Circular Economy Consultant</p>
+<p>Project Manager / Monitoring and Evaluation Specialist</p>
+<p>Development Data Scientist / Research Analyst</p>
 
 ###
 <p align="left"> Fun fact: NFL is my favorite sport</p>
@@ -50,9 +50,12 @@
 <img width="12" />
 </div>
 
+
+---
+
 ##### 
 
-<h2>⚡️ Where to find me</h2>
+<h2>Where to find me</h2>
 <p><a target="_blank" href="mailto:mkboamah7@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a target="_blank" href="https://x.com/https://x.com/Analyst909" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/michael-kodua-boamah-87556b241/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
@@ -63,5 +66,5 @@
 
 ###
 
-I am looking to collaborate on sustainable development and data projects.
+<h2 align="left">I am looking to collaborate on sustainable development and data projects</h2>
 
